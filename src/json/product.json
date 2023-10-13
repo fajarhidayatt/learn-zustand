@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "image": "../assets/dummy/dummy_product_1.png",
+    "name": "Diet Coke",
+    "desc": "335ml",
+    "price": "$1.99"
+  },
+  {
+    "id": "2",
+    "image": "../assets/dummy/dummy_product_2.png",
+    "name": "Sprite",
+    "desc": "325ml",
+    "price": "$1.50"
+  },
+  {
+    "id": "3",
+    "image": "../assets/dummy/dummy_product_3.png",
+    "name": "Coca Cola",
+    "desc": "325ml",
+    "price": "$4.99"
+  },
+  {
+    "id": "4",
+    "image": "../assets/dummy/dummy_product_4.png",
+    "name": "Pepsi",
+    "desc": "330ml",
+    "price": "$4.99"
+  },
+  {
+    "id": "5",
+    "image": "../assets/dummy/dummy_product_5.png",
+    "name": "Apple Juice",
+    "desc": "2L",
+    "price": "$15.99"
+  },
+  {
+    "id": "6",
+    "image": "../assets/dummy/dummy_product_6.png",
+    "name": "Orange Juice",
+    "desc": "2L",
+    "price": "$15.99"
+  }
+]

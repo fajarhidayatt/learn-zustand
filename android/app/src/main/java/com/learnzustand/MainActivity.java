@@ -1,4 +1,5 @@
 package com.learnzustand;
+import android.os.Bundle;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -28,5 +29,14 @@ public class MainActivity extends ReactActivity {
         getMainComponentName(),
         // If you opted-in for the New Architecture, we enable the Fabric Renderer.
         DefaultNewArchitectureEntryPoint.getFabricEnabled());
+  }
+
+  /**
+   * Configuration for package react-native-screen in react-navigation
+   * https://reactnavigation.org/docs/getting-started#:~:text=Add%20the%20highlighted%20code%20to%20the%20body%20of%20MainActivity%20class%3A
+   */
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(null);
   }
 }
